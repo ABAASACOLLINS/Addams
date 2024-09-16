@@ -14,5 +14,9 @@ public class Main {
         System.out.println("ARRAYS");
         int age[] =new int[]{4,5,6,8};
         System.out.println(age[0]);
+        System.out.println(age[3]);
+        String name[]= new String[]{"agaba","abaasa","ahabwe","arinda"};
+    System.out.println(name[2] +"="+ age[3]);
+    
     }
 }
