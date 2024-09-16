@@ -11,5 +11,8 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
+        System.out.println("ARRAYS");
+        int age[] =new int[]{4,5,6,8};
+        System.out.println(age[0]);
     }
 }
