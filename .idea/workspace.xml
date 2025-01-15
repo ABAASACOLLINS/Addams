@@ -5,49 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b92f97d-297e-48eb-8721-18e0c9ab7226" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Main.java">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/jFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/multiThreading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/myRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/myThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/threads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/types.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessModifiers/Package1/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessModifiers/Package1/privateClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessModifiers/Package2/access.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessModifiers/Package2/accessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessModifiers/Package2/child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deserializer/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deserializer/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentals/audioFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentals/exceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentals/fileClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentals/fileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentals/fileWriters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/copyingObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/copyingObjects2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/encapsulation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/interfaces/accountTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/interfaces/loan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/interfaces/saving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/interfaces/transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/interfaces/transactionClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/polymorphism/admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/polymorphism/customertype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/polymorphism/definition" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/polymorphism/dynamicPolymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/polymorphism/members.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/polymorphism/normalMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serializingAndDeserializing/serializer/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serializingAndDeserializing/serializer/serializing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theRest/genericMeyhodAndClasses/genericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theRest/genericMeyhodAndClasses/genericMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theRest/genericMeyhodAndClasses/repeatingTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/objectOrientedProgramming/abstractKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/abstractKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentals/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentals/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentals/WrapperClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentals/WrapperClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentals/array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentals/array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentals/arrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentals/arrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentals/audioFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentals/audioFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentals/finalkeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentals/finalkeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentals/forEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentals/forEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentals/methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentals/methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentals/nestedloops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentals/nestedloops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentals/overloadedMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentals/overloadedMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentals/printF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentals/printF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentals/stringManipulators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentals/stringManipulators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,66 +66,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.WrapperClasses.executor": "Run",
-    "Application.abstractKeyword.executor": "Run",
-    "Application.array.executor": "Run",
-    "Application.arrayLists.executor": "Run",
-    "Application.audioFiles.executor": "Run",
-    "Application.copyingObjects.executor": "Run",
-    "Application.customertype.executor": "Run",
-    "Application.deserialization.executor": "Run",
-    "Application.dynamicPolymorphism.executor": "Run",
-    "Application.encapsulation.executor": "Run",
-    "Application.exceptions.executor": "Run",
-    "Application.fileClass.executor": "Run",
-    "Application.fileReader.executor": "Run",
-    "Application.fileWriters.executor": "Run",
-    "Application.forEach.executor": "Run",
-    "Application.genericMethods.executor": "Run",
-    "Application.inheritance3.executor": "Run",
-    "Application.jFrame.executor": "Run",
-    "Application.main.executor": "Run",
-    "Application.methodOverriding.executor": "Run",
-    "Application.methods.executor": "Run",
-    "Application.multiThreading.executor": "Run",
-    "Application.nestedloops.executor": "Run",
-    "Application.objectArguments3.executor": "Run",
-    "Application.objectArrays2.executor": "Run",
-    "Application.oop.executor": "Run",
-    "Application.overloadedConstructors2.executor": "Run",
-    "Application.overloadedMethods.executor": "Run",
-    "Application.printF.executor": "Run",
-    "Application.privateClass.executor": "Run",
-    "Application.repeatingTasks.executor": "Run",
-    "Application.retrieval.executor": "Run",
-    "Application.retrieval2.executor": "Run",
-    "Application.serializing.executor": "Run",
-    "Application.staticKeyword2.executor": "Run",
-    "Application.superKeyword.executor": "Run",
-    "Application.threads.executor": "Run",
-    "Application.timers.executor": "Run",
-    "Application.toStringMethod2.executor": "Run",
-    "Application.transaction.executor": "Run",
-    "Application.types.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/THINKPAD/IdeaProjects/Addams",
-    "onboarding.tips.debug.path": "C:/Users/THINKPAD/IdeaProjects/CLASS/src/Main.java",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WrapperClasses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.abstractKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrayLists.executor&quot;: &quot;Run&quot;,
+    &quot;Application.audioFiles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.copyingObjects.executor&quot;: &quot;Run&quot;,
+    &quot;Application.customertype.executor&quot;: &quot;Run&quot;,
+    &quot;Application.deserialization.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dynamicPolymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Application.encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fileClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fileReader.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fileWriters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.forEach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.genericMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.inheritance3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.jFrame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methodOverriding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.multiThreading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nestedloops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.objectArguments3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.objectArrays2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.overloadedConstructors2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.overloadedMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.printF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.privateClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.repeatingTasks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.retrieval.executor&quot;: &quot;Run&quot;,
+    &quot;Application.retrieval2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.serializing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.staticKeyword2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.superKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.threads.executor&quot;: &quot;Run&quot;,
+    &quot;Application.timers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.toStringMethod2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.transaction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.types.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/THINKPAD/IdeaProjects/Addams&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/THINKPAD/IdeaProjects/CLASS/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\THINKPAD\IdeaProjects\Addams\src\serializingAndDeserializing\serializer" />

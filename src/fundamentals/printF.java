@@ -1,3 +1,5 @@
+package fundamentals;
+
 public class printF {public static void main(
         String[]args
 ){// this is for manipulating texts

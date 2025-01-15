@@ -1,3 +1,5 @@
+package fundamentals;
+
 public class array {
     public static void main(String[]args){
         String [] dogs={"pitbull","german shepherd","local"};
@@ -10,8 +12,8 @@ public class array {
         cars[2]="rumion";
         System.out.println(cars[1]);
         System.out.println(cars[2]);
-        for (int i = 0; i < cars.length ; i++) {
-            System.out.println(cars[i]);
+        for (String car : cars) {
+            System.out.println(car);
         }
         // multi dimensional arrays have rows and columns
 

@@ -4,7 +4,7 @@ public class WrapperClasses {public static void main(
     // Wrapperclass these convert primitive data to reference data(strings) ie access all the reference data types
     /*
     the wrapper class act as both reference data types and primitive data types
-    bolean  Bolean
+    boolean  Boolean
     int  Integer
     char  Character
     double Double

@@ -1,3 +1,5 @@
+package fundamentals;
+
 public class methods {public static void main(String[]args){
 //methods are a block of code that are exucted when invoked (called upon)
 String name="Abaasa";

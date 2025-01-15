@@ -1,3 +1,5 @@
+package fundamentals;
+
 public class finalkeyword { public static void main(String []args){
     //final makes variables uneditable
     int the =56;

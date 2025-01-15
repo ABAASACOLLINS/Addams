@@ -11,7 +11,7 @@ public class audioFiles {public static void main(String[]args) throws Unsupporte
     AudioInputStream bigfun=AudioSystem.getAudioInputStream(music);
     Clip clip= AudioSystem.getClip();
     clip.open(bigfun);
-
+clip.start();
     // restart
    //stop
  //for reset we input clip.set and put 0 as an argument
